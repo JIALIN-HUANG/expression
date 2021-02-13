@@ -1,109 +1,116 @@
-@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Reggae+One&display=swap");
 
-body{
-    background-color: darkseagreen;
+body {
+  background-color: darkseagreen;
 }
 
-.background{
-    background-color: #f9f8e1;
-    width: 80%;
-    margin: 0 auto;
-    min-height: 100vh;
-
+.background {
+  background-color: #f9f8e1;
+  width: 80%;
+  margin: 0 auto;
+  min-height: 100vh;
 }
 
-.video{
-    position: relative;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    width: 50%;
+.video {
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 1120px;
+  margin: 0 auto;
 }
+
 .ILMB {
-    font-family: 'Reggae One', cursive;
-    color: black;
-    font-size: 3rem;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 3rem;
+  font-family: "Reggae One", cursive;
+  color: black;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 3rem;
 }
 
-  
-.invisible:hover{
-    opacity: 0;
-      }
-
-.co{
-    color: tomato;
+.gif {
+    position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
 }
 
-.NYC:hover{
-    font-family: 'Yusei Magic', sans-serif;
-    color:bisque;
-    font-weight: bold;
-    font-size: 3.125rem;
-    transform: rotate(90deg);
+.invisible:hover {
+  opacity: 0;
 }
 
-.first{
-    font-family: 'Special Elite', cursive;
-    font-size: 1.5vw;
-    color: rgba(220, 102, 102, 0.659);
-    text-align: center;
+.co {
+  color: tomato;
 }
 
-.second{
-    font-family: 'Special Elite', cursive;
-    color:black;
-    font-size: 1.5vw;
-    text-align: center;
+.NYC:hover {
+  font-family: "Yusei Magic", sans-serif;
+  color: bisque;
+  font-weight: bold;
+  font-size: 3.125rem;
+  transform: rotate(90deg);
 }
 
-#DSP{
-    font-family: 'Special Elite', cursive;
-    font-size: 2.5vw;
-    color: cornflowerblue;
+.first {
+  font-family: "Special Elite", cursive;
+  font-size: 1.5vw;
+  color: rgba(220, 102, 102, 0.659);
+  text-align: center;
 }
 
-.wer:hover{
-    font-size: 2rem;
-    color: rgb(238, 203, 89);
+.second {
+  font-family: "Special Elite", cursive;
+  color: black;
+  font-size: 1.5vw;
+  text-align: center;
 }
 
-.third{
-    font-family: 'Special Elite', cursive;
-    color:lightcoral;
-    font-size: 1.5vw;
-    text-align: center;
+#DSP {
+  font-family: "Special Elite", cursive;
+  font-size: 2.5vw;
+  color: cornflowerblue;
 }
 
-.sp:hover{
-    transform: rotate(30deg);
-    font-size: 3vw;
-    color: burlywood;
+.wer:hover {
+  font-size: 2rem;
+  color: rgb(238, 203, 89);
 }
 
-.talk{
-    border-bottom: 1px solid purple;
+.third {
+  font-family: "Special Elite", cursive;
+  color: lightcoral;
+  font-size: 1.5vw;
+  text-align: center;
 }
 
-.talk:hover{
-    font-size: 100px;
-    font-weight: bold;
+.sp:hover {
+  transform: rotate(30deg);
+  font-size: 3vw;
+  color: burlywood;
 }
 
-.something{
-    border-bottom: 1px solid purple;
+.talk {
+  border-bottom: 1px solid purple;
 }
 
-.something:hover{
-    font-size: 6px;
-    font-weight: lighter;
+.talk:hover {
+  font-size: 100px;
+  font-weight: bold;
 }
 
-.werr:hover{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bolder;
-    color: darkolivegreen;
+.something {
+  border-bottom: 1px solid purple;
+}
+
+.something:hover {
+  font-size: 6px;
+  font-weight: lighter;
+}
+
+.werr:hover {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bolder;
+  color: darkolivegreen;
 }
